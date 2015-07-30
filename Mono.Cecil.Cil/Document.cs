@@ -21,6 +21,7 @@ namespace Mono.Cecil.Cil {
 		None,
 		MD5,
 		SHA1,
+		SHA256,
 	}
 
 	public enum DocumentLanguage {
